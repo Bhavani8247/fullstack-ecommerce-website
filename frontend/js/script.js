@@ -19,7 +19,7 @@ async function fetchProducts(){
     try{
 
         const response = await fetch(
-            "http://localhost:5000/api/products"
+            "https://fullstack-ecommerce-website-pxbw.onrender.com/api/products"
         );
 
         products = await response.json();

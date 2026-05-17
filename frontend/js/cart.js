@@ -151,7 +151,7 @@ async function checkout(){
     try{
 
         const response = await fetch(
-            "http://localhost:5000/api/orders",
+            "https://fullstack-ecommerce-website-pxbw.onrender.com/api/orders",
             {
                 method: "POST",
 

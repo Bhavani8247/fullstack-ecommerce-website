@@ -81,7 +81,7 @@ async function addToCart(id){
     try{
 
         const response = await fetch(
-            `http://localhost:5000/api/products/${id}`
+            `https://fullstack-ecommerce-website-pxbw.onrender.com/api/products/${id}`
         );
 
         const product = await response.json();
