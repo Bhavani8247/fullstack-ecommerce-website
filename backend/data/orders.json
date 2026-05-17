@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1778920418232,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 2999,
+        "image": "https://via.placeholder.com/250",
+        "quantity": 1
+      }
+    ],
+    "date": "16/05/2026, 14:03:38"
+  },
+  {
+    "id": 1779006404990,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 2999,
+        "image": "https://via.placeholder.com/250",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 13:56:44"
+  },
+  {
+    "id": 1779006449481,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 2999,
+        "image": "https://via.placeholder.com/250",
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 1999,
+        "image": "https://via.placeholder.com/250",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 13:57:29"
+  },
+  {
+    "id": 1779006618745,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 1999,
+        "image": "https://via.placeholder.com/250",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 14:00:18"
+  },
+  {
+    "id": 1779009660632,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 2999,
+        "image": "images/smartwatch.jpg",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 14:51:00"
+  },
+  {
+    "id": 1779009831662,
+    "user": "bhavaniponde@gmail.com",
+    "items": [
+      {
+        "id": 3,
+        "name": "Gaming Mouse",
+        "price": 1499,
+        "image": "images/gaming-mouse.jpg",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 14:53:51"
+  },
+  {
+    "id": 1779010027418,
+    "user": "akshithreddy.bio@gmail.com",
+    "items": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 1999,
+        "image": "./images/headphones.jpg",
+        "quantity": 1
+      }
+    ],
+    "date": "17/05/2026, 14:57:07"
+  }
+]

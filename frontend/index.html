@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Store</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <h1 class="logo">ShopEase</h1>
+
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li>
+                <a href="cart.html">
+                    Cart (<span id="cart-count">0</span>)
+                </a>
+            </li>
+            <li>
+                <a href="orders.html">Orders</a>
+            </li>
+            
+            <li>
+                <a href="#" onclick="logout()">
+                    Logout
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h2>Welcome to ShopEase</h2>
+        <p>Best Products at Best Prices</p>
+    </section>
+
+    <!-- Products Section -->
+    <section class="products" id="products">
+
+        <div class="product-card">
+            <img src="images/headphones.jpg" alt="Product">
+
+            <h3>Wireless Headphones</h3>
+
+            <p class="price">₹1999</p>
+
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/200" alt="Product">
+
+            <h3>Smart Watch</h3>
+
+            <p class="price">₹2999</p>
+
+            <button>Add to Cart</button>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/200" alt="Product">
+
+            <h3>Gaming Mouse</h3>
+
+            <p class="price">₹1499</p>
+
+            <button>Add to Cart</button>
+        </div>
+
+    </section>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>

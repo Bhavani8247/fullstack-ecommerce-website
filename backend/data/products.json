@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "image": "images/headphones.jpg",
+    "description": "Experience immersive sound with active noise cancellation, crystal-clear audio, deep bass technology, and up to 30 hours of battery backup. Perfect for music lovers, gaming, and travel."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 2999,
+    "image": "images/smartwatch.jpg",
+    "description": "Stay connected and track your fitness with this smart watch featuring heart-rate monitoring, sleep tracking, waterproof design, Bluetooth calling, and smart notifications."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "price": 1499,
+    "image": "images/gaming-mouse.jpg",
+    "description": "Dominate every game with this high-performance gaming mouse featuring RGB lighting, adjustable DPI settings, ergonomic grip, ultra-fast response time, and precision tracking."
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 2499,
+    "image": "images/bluetooth-speaker.jpg",
+    "description": "Enjoy powerful surround sound with this portable Bluetooth speaker featuring enhanced bass, wireless connectivity, waterproof protection, and long-lasting battery life."
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "price": 999,
+    "image": "images/laptop-stand.jpg",
+    "description": "Improve posture and productivity with this adjustable aluminum laptop stand designed for heat dissipation, comfortable viewing angles, and sturdy support for all laptops."
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "price": 3499,
+    "image": "images/mechanical-keyboard.jpg",
+    "description": "Boost your gaming and typing experience with this mechanical keyboard featuring RGB backlighting, tactile switches, anti-ghosting keys, and durable premium build quality."
+  },
+  {
+    "id": 7,
+    "name": "USB Hub",
+    "price": 799,
+    "image": "images/usb-hub.jpg",
+    "description": "Expand your connectivity with this compact USB hub offering multiple high-speed ports, fast data transfer, plug-and-play support, and lightweight portable design."
+  },
+  {
+    "id": 8,
+    "name": "Portable SSD",
+    "price": 4999,
+    "image": "images/portable-ssd.jpg",
+    "description": "Store and transfer files instantly with this ultra-fast portable SSD featuring high-speed performance, shock-resistant body, compact size, and secure data protection."
+  },
+  {
+    "id": 9,
+    "name": "Webcam",
+    "price": 1899,
+    "image": "images/webcam.jpg",
+    "description": "Attend online classes and meetings with confidence using this HD webcam featuring crystal-clear video quality, built-in microphone, auto light correction, and smooth streaming."
+  },
+  {
+    "id": 10,
+    "name": "LED Monitor",
+    "price": 8999,
+    "image": "images/led-monitor.jpg",
+    "description": "Enjoy stunning visuals with this Full HD LED monitor featuring vibrant color accuracy, ultra-slim bezels, eye-care technology, and smooth performance for gaming and productivity."
+  }
+]

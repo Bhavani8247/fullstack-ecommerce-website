@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+
+    <nav class="navbar">
+
+        <h1 class="logo">ShopEase Admin</h1>
+
+        <ul class="nav-links">
+
+            <li><a href="index.html">Home</a></li>
+
+            <li><a href="orders.html">Orders</a></li>
+
+        </ul>
+
+    </nav>
+
+    <!-- Add Product Form -->
+
+    <section class="auth-container">
+
+        <form id="product-form" class="auth-form">
+
+            <h2>Add Product</h2>
+
+            <input 
+                type="text"
+                id="name"
+                placeholder="Product Name"
+                required
+            >
+
+            <input 
+                type="number"
+                id="price"
+                placeholder="Price"
+                required
+            >
+
+            <input 
+                type="text"
+                id="image"
+                placeholder="Image URL"
+                required
+            >
+
+            <button type="submit">
+                Add Product
+            </button>
+
+        </form>
+
+    </section>
+
+    <script src="js/add-product.js"></script>
+
+</body>
+</html>
